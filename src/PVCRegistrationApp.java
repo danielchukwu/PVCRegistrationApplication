@@ -45,7 +45,7 @@ public class PVCRegistrationApp {
         JButton applyButton = new JButton("Apply");
         JButton seeNextButton = new JButton("See Next");
         JButton removeNextButton = new JButton("Remove Next");
-        JButton printQueueButton = new JButton("Print Queue Queue");
+        JButton printQueueButton = new JButton("Print Queue");
 
 
         // Apply Button
